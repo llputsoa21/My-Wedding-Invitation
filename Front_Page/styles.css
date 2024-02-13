@@ -179,8 +179,8 @@ a:hover{
     justify-content: space-between;
 }
 .home-img{
-    background-image: url(./)
-    background-size: cover;
+    background-image: url(./Images/ebf364d7-6664-4b08-bfd5-08c547af78f9.jpg)
+    background-size cover;
     background-position: center;
 }
 .home-img-sm{
